@@ -1,0 +1,22 @@
+h1{
+    color:Blue;
+    font-family: 'Rampart One', cursive;
+}
+
+h2{
+    color:Blue;
+    font-family: 'IM Fell English SC', serif;
+}
+img{
+    width:200px;
+    height:200px;
+    margin:10px;
+   transform: rotate(90deg);
+}
+
+    
+
+
+body{
+    background-color: grey;
+}
